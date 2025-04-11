@@ -1,0 +1,8 @@
+--- 
+
+- Cookie
+- Cache
+- IndexedDB
+
+
+--- 
